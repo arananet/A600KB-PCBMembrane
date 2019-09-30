@@ -10,7 +10,7 @@ Replace your A600 blue keyboard membrane using PCB.
 
 # A little of history
 
-It all start by the necessity... my first A600 fully modded with Vampire 600 start to fail on the keyboard, some keys were non working and after some time the entire kb stop working. So I search for a membrane replacement. When I found one and saw the price of it, it does not convence me at all, because with time It will fail again. So I decide to fix this by using a replacement made on PCB. I saw that Kipper2k publish some pics of something like this too but there was no chance to get one. So since I already have experience recreating keyboards (I have made a C64 mechanical keyboard too), I was accustomed to the "matrix" solution too.
+It all start by the necessity... my first A600 fully modded with Vampire 600 start to fail on the keyboard, some keys were non working and after some time the entire kb stop working. So I search for a membrane replacement. When I found one and saw the price of it, it does not convence me at all, because with time It will fail again. So I decide to fix this by using a replacement made on PCB. I saw that Kipper2k publish some pics of something like this too but there was no chance to get one on that moment. So since I already have experience recreating keyboards (I have made a C64 mechanical keyboard too), I was accustomed to the "matrix" solution too.
 
 My A600 https://arananet-net.kinja.com/instalacion-interna-de-un-plipbox-internet-en-mi-comm-1784934347
 and https://arananet-net.kinja.com/instalacion-de-la-aceleradora-vampire-v2-en-mi-a600-c-1782458393.
