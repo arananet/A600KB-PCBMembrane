@@ -4,8 +4,6 @@ Replace your A600 blue keyboard membrane using PCB.
 
 #### Fully reverse engineered from an original blue membrane by @edu_arana in 2019. 
 
-I make this available for the Amiga Community! AMIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!.
-
 # Updates
 
 30/09/2019: Initial release.
@@ -18,6 +16,8 @@ My A600 https://arananet-net.kinja.com/instalacion-interna-de-un-plipbox-interne
 and https://arananet-net.kinja.com/instalacion-de-la-aceleradora-vampire-v2-en-mi-a600-c-1782458393.
 
 So after some trials and errors (more errors than trials) I finally fix all the errors, and make two boards, one boards its the keyboard pcb itself and the other is a tiny pcb that is used to plug into the A600 motherboard connector. The connection between the two board is made by a FFC/FPC flat 0.5mm cable.
+
+#### I make this available for the Amiga Community! AMIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!.
 
 # Note
 
