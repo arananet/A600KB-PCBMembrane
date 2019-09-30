@@ -1,6 +1,6 @@
 # A600BlueKBMembranetoPCB
 
-Replace your Blue keyboard membrane replacement using PCB. Reverse engineered from an original blue membrane by @edu_arana in 2019.
+Replace your A600 blue keyboard membrane using PCB. Reverse engineered from an original blue membrane by @edu_arana in 2019.
 
 # Updates
 
