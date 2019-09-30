@@ -2,7 +2,7 @@
 
 Replace your A600 blue keyboard membrane using PCB. 
 
-####Reverse engineered from an original blue membrane by @edu_arana in 2019. 
+#### Fully reverse engineered from an original blue membrane by @edu_arana in 2019. 
 
 I make this available for the Amiga Community! AMIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!.
 
@@ -25,11 +25,11 @@ This is a work in progress, several testing must be made but it should work as i
 
 # Images
 
-####Keyboard pcb.
+#### Keyboard pcb.
 
 <img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/teclado.png?raw=true" width="700">
 
-####Header.
+#### Header.
 
 <img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/header.png?raw=true" width="700">
 
@@ -47,7 +47,7 @@ Flat cable example: https://www.ebay.es/itm/2X-Ffc-FPC-Ribbon-Flat-200mm-X-30Pin
 
 Information to order the gerbers on fabric.
 
-####Keyboard pcb:
+#### Keyboard pcb:
 
 Layers: 2
 
@@ -67,7 +67,7 @@ Material Details: FR4-Standard Tg 130-140C
 
 Castellated Holes:no
 
-####Header pcb:
+#### Header pcb:
 
 Layers: 1
 
