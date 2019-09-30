@@ -33,6 +33,18 @@ This is a work in progress, several testing must be made but it should work as i
 
 <img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/header.png?raw=true" width="700">
 
+# Images on the real A600
+
+<img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/1.png?raw=true" width="700">
+
+
+<img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/2.png?raw=true" width="700">
+
+
+<img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/3.png?raw=true" width="700">
+
+
+
 # Bill of materials
 
 | Part          | Value                          | Package                        |
