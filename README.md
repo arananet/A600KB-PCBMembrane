@@ -7,6 +7,7 @@ Replace your A600 blue keyboard membrane using PCB. Yeah for the A600, the Amiga
 # Updates
 
 30/09/2019: Initial release.
+12/11/2019: Updated license stuff (I usually not do this but I must start it with this).
 
 # A little of history
 
