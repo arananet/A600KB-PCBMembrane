@@ -4,6 +4,11 @@ Replace your A600 blue keyboard membrane using PCB. Yeah for the A600, the Amiga
 
 #### Fully reverse engineered from an original blue membrane by @edu_arana in 2019. 
 
+# Feedback
+
+If you find any error on this description, please drop me an email to info@arananet.net or If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
+
 # Updates
 
 30/09/2019: Initial release.
@@ -101,10 +106,6 @@ Gold Fingers: No
 Material Details: FR4-Standard Tg 130-140C
 
 Castellated Holes:no
-
-# Feedback
-
-If you find any error on this description, please drop me an email to info@arananet.net or you could also buy me a beer or a Mercedez SLR.. or... :p
 
 # License
 
