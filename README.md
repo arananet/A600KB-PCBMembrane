@@ -9,10 +9,19 @@ Replace your A600 blue keyboard membrane using PCB. Yeah for the A600, the Amiga
 If you find any error on this description, please drop me an email to info@arananet.net or If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
 
+# Note
+
+This is a work in progress, several testing has been made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. 
+
+#### USE AT YOUR OWN RISK!
+
 # Updates
 
-30/09/2019: Initial release.
+18/08/2021: Uploaded gerbers compatible with blue and green membranes. (if you produce them, its at your own, have not tested the green one).
+
 12/11/2019: Updated license stuff (I usually not do this but I must start it with this).
+
+30/09/2019: Initial release.
 
 # A little of history
 
@@ -23,13 +32,7 @@ and https://arananet-net.kinja.com/instalacion-de-la-aceleradora-vampire-v2-en-m
 
 So after some trials and errors (more errors than trials) I finally fix all the errors, and make two boards, one boards its the keyboard pcb itself and the other is a tiny pcb that is used to plug into the A600 motherboard connector. The connection between the two board is made by a FFC/FPC flat 0.5mm cable.
 
-#### I make this available for the Amiga Community! AMIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!.
-
-# Note
-
-This is a work in progress, several testing has been made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. 
-
-#### USE AT YOUR OWN RISK!
+#### AMIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!.
 
 # Images
 
