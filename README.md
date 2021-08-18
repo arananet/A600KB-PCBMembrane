@@ -40,7 +40,7 @@ Images might not correspond with the current gerbers: tecladoa600dual_2020-09-26
 
 #### Keyboard pcb.
 
-<img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/teclado.png?raw=true" width="700">
+<img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/1.png?raw=true" width="700">
 
 #### Header.
 
