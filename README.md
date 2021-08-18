@@ -1,13 +1,8 @@
 # A600KB-PCBMembrane old A600BlueKBMembranetoPCB
 
-Replace your A600 blue and (now) green keyboard membrane using PCB. Yeah for the A600, the Amiga that it seems no one want to recreate.. :(( I love my tiny A600 machine.
+Replace your A600 blue and (now) green keyboard membrane using a PCB version. Yeah for the A600, the Amiga that it seems no one want to recreate.. :(( I love my tiny A600 machine.
 
 #### Fully reverse engineered from an original blue membrane by @edu_arana in 2019. 
-
-# Feedback
-
-If you find any error on this description, please drop me an email to info@arananet.net or If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
 
 # Note
 
@@ -50,13 +45,9 @@ Images might not correspond with the current gerbers: tecladoa600dual_2020-09-26
 
 <img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/1.jpg?raw=true" width="700">
 
-
 <img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/2.jpg?raw=true" width="700">
 
-
 <img src="https://github.com/arananet/A600BlueKBMembranetoPCB/blob/master/img/3.jpg?raw=true" width="700">
-
-
 
 # Bill of materials
 
@@ -111,6 +102,12 @@ Gold Fingers: No
 Material Details: FR4-Standard Tg 130-140C
 
 Castellated Holes:no
+
+
+# Feedback
+
+If you find any error on this description, please drop me an email to info@arananet.net or If you like the project or want to support it, you can buy me a beer or a KO-FI :) 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51MPWG)
 
 # License
 
