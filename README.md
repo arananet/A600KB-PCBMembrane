@@ -1,6 +1,6 @@
 # A600BlueKBMembranetoPCB
 
-Replace your A600 blue keyboard membrane using PCB. Yeah for the A600, the Amiga that it seems no one want to recreate.. :(( I love my tiny A600 machine.
+Replace your A600 blue and (now) green keyboard membrane using PCB. Yeah for the A600, the Amiga that it seems no one want to recreate.. :(( I love my tiny A600 machine.
 
 #### Fully reverse engineered from an original blue membrane by @edu_arana in 2019. 
 
@@ -35,6 +35,8 @@ So after some trials and errors (more errors than trials) I finally fix all the 
 #### AMIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!.
 
 # Images
+
+Images might not correspond with the current gerbers: tecladoa600dual_2020-09-26.zip
 
 #### Keyboard pcb.
 
