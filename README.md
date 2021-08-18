@@ -1,4 +1,4 @@
-# A600BlueKBMembranetoPCB
+# A600KB-PCBMembrane old A600BlueKBMembranetoPCB
 
 Replace your A600 blue and (now) green keyboard membrane using PCB. Yeah for the A600, the Amiga that it seems no one want to recreate.. :(( I love my tiny A600 machine.
 
