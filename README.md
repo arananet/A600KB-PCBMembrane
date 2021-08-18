@@ -89,7 +89,7 @@ Layers: 1
 
 Dimension: 38mm*23mm
 
-### PCB Thickness: 0.6-0.8 depending on pcb manufacturer, if you doubt about this, order the 0.6 and supplement with a piece of tape on the back.
+##### PCB Thickness: 0.6-0.8 depending on pcb manufacturer, if you doubt about this, order the 0.6 and supplement with a piece of tape on the back.
 
 PCB Color: Any
 
