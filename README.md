@@ -12,6 +12,9 @@ This is a work in progress, several testing has been made but it should work as 
 
 # Updates
 
+29/09/2021: Updated the membrane board to fix a problem with a missing hole at bottonm right. The file tecladoa600dual_2021-09-29.zip is the last version fixed.
+Thanks to Murányi Zoltán for comment the missing hole problem.
+
 18/08/2021: Uploaded gerbers compatible with blue and green membranes. (if you produce them, its at your own, have not tested the green one).
 
 12/11/2019: Updated license stuff (I usually not do this but I must start it with this).
